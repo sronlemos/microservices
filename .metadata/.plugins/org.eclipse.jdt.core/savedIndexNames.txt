@@ -78,7 +78,6 @@ INDEX VERSION 1.131+C:\Users\sron\Documents\workspace-master\.metadata\.plugins\
 3908238509.index
 3155096996.index
 3034277406.index
-19706685.index
 568578110.index
 1486595460.index
 2135324199.index
