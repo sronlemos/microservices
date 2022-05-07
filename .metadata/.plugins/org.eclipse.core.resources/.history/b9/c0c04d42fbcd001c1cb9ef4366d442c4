@@ -1,0 +1,5 @@
+package com.github.sronlemos.limitsservice.controller;
+
+public class LimitsController {
+
+}
