@@ -514,3 +514,48 @@ Binding(CTRL+SHIFT+C,
 
 !ENTRY org.eclipse.ui 2 2 2022-05-07 09:11:23.467
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-07 10:20:18.028
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-07 10:20:18.040
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-07 10:20:18.047
+!MESSAGE buffering callback sts4.classpath.WYnIogaL spring-cloud-config-server false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-07 10:20:18.048
+!MESSAGE executing callback sts4.classpath.WYnIogaL 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-07 10:20:18.418
+!MESSAGE executing callback sts4.classpath.WYnIogaL SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-07 10:20:18.419
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-07 10:20:18.429
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-07 10:20:18.453
+!MESSAGE buffering callback sts4.classpath.WYnIogaL spring-cloud-config-server false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-07 10:20:18.454
+!MESSAGE executing callback sts4.classpath.WYnIogaL 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-07 10:20:18.485
+!MESSAGE executing callback sts4.classpath.WYnIogaL SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-07 10:20:20.849
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-07 10:20:20.858
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-07 10:20:20.865
+!MESSAGE buffering callback sts4.classpath.WYnIogaL spring-cloud-config-server false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-07 10:20:20.867
+!MESSAGE executing callback sts4.classpath.WYnIogaL 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-07 10:20:20.902
+!MESSAGE executing callback sts4.classpath.WYnIogaL SUCCESS [done]
