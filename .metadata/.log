@@ -5723,3 +5723,33 @@ org.eclipse.debug.core.DebugException: Launch configuration currency-exchange-se
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 !SUBENTRY 1 org.eclipse.debug.core 4 5012 2022-05-16 23:03:02.318
 !MESSAGE Launch configuration currency-exchange-service - CurrencyExchangeServiceApplication (2) at file:/C:/Users/sron/Documents/workspace-master/.metadata/.plugins/org.eclipse.debug.core/.launches/currency-exchange-service%20-%20CurrencyExchangeServiceApplication%20(2).launch does not exist.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-17 22:30:52.629
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-17 22:30:52.637
+!MESSAGE classpath=85 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-17 22:30:52.641
+!MESSAGE buffering callback sts4.classpath.fTdlHRsm currency-conversion-service false 85
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-17 22:30:52.642
+!MESSAGE executing callback sts4.classpath.fTdlHRsm 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-17 22:30:52.668
+!MESSAGE executing callback sts4.classpath.fTdlHRsm SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-17 22:30:53.861
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-17 22:30:53.868
+!MESSAGE classpath=85 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-17 22:30:53.873
+!MESSAGE buffering callback sts4.classpath.fTdlHRsm currency-conversion-service false 85
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-17 22:30:53.874
+!MESSAGE executing callback sts4.classpath.fTdlHRsm 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-17 22:30:53.899
+!MESSAGE executing callback sts4.classpath.fTdlHRsm SUCCESS [done]
